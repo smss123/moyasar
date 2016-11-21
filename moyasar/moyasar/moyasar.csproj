@@ -43,6 +43,8 @@
     <Compile Include="Connector.cs" />
     <Compile Include="Invoice.cs" />
     <Compile Include="Payment.cs" />
+    <Compile Include="PaymentInfo.cs" />
+    <Compile Include="PaymentResult.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
